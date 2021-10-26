@@ -2,6 +2,8 @@
 
 [Hidden Technical Debt.pptx](https://github.com/Marqabi/marqabi/files/7380557/Hidden.Technical.Debt.pptx)
 
+[Hidden Human Contributions.pptx](https://github.com/Marqabi/marqabi/files/7417394/Hidden.Human.Contributions.pptx)
+
 <!--
 **Marqabi/marqabi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
